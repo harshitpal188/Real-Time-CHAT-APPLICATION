@@ -81,6 +81,12 @@ Socket.IO: Enables bidirectional real-time communication between clients and ser
 
   ##OUTPUT
 
-  
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7ec00c6e-79cb-4dbe-9783-6e594a0a9677" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/69df4cf8-42c0-44b8-a3f0-f3907612ca32" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cacf71d5-c2df-4590-9283-b976969894f7" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/afa115d8-2af6-4f19-8f76-00f7abdd52e0" />
 
 
